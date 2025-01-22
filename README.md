@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently study at USTB
+- 📫 How to reach me: lisj.ustb@gmail.com
+
 <!--
 **lisj03/lisj03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
